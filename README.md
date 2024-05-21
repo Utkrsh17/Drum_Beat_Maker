@@ -3,7 +3,11 @@ The Beat Maker is a simple Python program built with Pygame that allows users to
 
 # Features
 1.Grid-based interface for creating beats.
+
 2.Toggle instruments on and off.
+
 3.Adjust BPM (Beats Per Minute) for the beat loop.
+
 4.Save and load beats for future use.
+
 5.Simple and intuitive user interface.
